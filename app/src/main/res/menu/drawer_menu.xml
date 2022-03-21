@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:id="@+id/Profile"/>
+    <item android:title="My Favourites"
+        android:icon="@drawable/ic_favorite"
+        android:id="@+id/fav"/>
+    <item android:title="Login/Logout"
+        android:icon="@drawable/ic_login"
+        android:id="@+id/logout"/>
+</menu>
